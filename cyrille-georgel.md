@@ -4,3 +4,4 @@ Create an Issue to add your bio to the repo. The issue should contain each of th
     - [ ] Where you are from
     - [ ] A favorite food
     - [ ] A hobby
+    - [ ] Your favorite color
